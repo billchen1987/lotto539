@@ -1,0 +1,32 @@
+📦 539-analyzer 結構（建立時間 2025-05-09 23:08:51）
+📁 analyzer
+    📄 __init__.py
+    📄 consecutive.py
+    📄 frequency.py
+    📄 gap_pattern.py
+    📄 hot_cold.py
+    📄 odd_even.py
+    📄 range_segment.py
+    📄 summary.py
+    📄 tail_digit.py
+    📄 weekday_stats.py
+📄 app.py
+📁 data
+📁 database
+    📄 import_csv.py
+    📄 init_db.py
+    📄 query.py
+📁 downloader
+    📄 fetch_csv.py
+📁 output
+📄 project_structure.txt
+📄 README.md
+📁 report
+    📄 __init__.py
+    📄 chart_generator.py
+    📄 pdf_template.py
+    📄 style.py
+📄 requirements.txt
+📄 streamlit_app.py
+📁 utils
+    📄 formatter.py

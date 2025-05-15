@@ -1,0 +1,7 @@
+pandas
+numpy
+fpdf2
+streamlit
+matplotlib
+reportlab
+seaborn
